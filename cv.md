@@ -22,7 +22,7 @@
 
 3. **Arnold, Taylor**, and Lauren Tilton. "New Data, New Histories: The Role of Statistics in DH." *Debates in the Digital Humanities 2017*. University of Minnesota Press. To appear.
 
-4. **Arnold, Taylor **, Michael Kane, and Simon Urbanek. "iotools: High-Performance I/O Tools for R." The R Journal. To Appear.
+4. **Arnold, Taylor**, Michael Kane, and Simon Urbanek. "iotools: High-Performance I/O Tools for R." The R Journal. To Appear.
 
 5. **Arnold, Taylor**, Stacey Maples, Lauren Tilton, and Laura Wexler. "Uncovering Latent Metadata in the FSA-OWI Photographic Archive." Digital Humanities Quarterly. Volume 11 Number 2.
 
@@ -45,8 +45,8 @@
 ### 2011
 
 11. **Arnold, Taylor**, and John Emerson. "Nonparametric Goodness-of-Fit Tests for Discrete Null Distributions." *The R Journal* 3.2 (2011): 34-39.
-
 12. Emerson, John, and **Taylor  Arnold**. "Statistical Sleuthing by Leveraging Human Nature: A Study of Olympic Figure Skating." *The American Statistician* 65.3 (2011).
 
-13. Russett, Bruce, and **Taylor Arnold**. "Who Talks, and Who’s Listening? Networks of International Security Studies." *Security Dialogue* 41.6 (2010): 589-598.
+### 2010
 
+13. Russett, Bruce, and **Taylor Arnold**. "Who Talks, and Who’s Listening? Networks of International Security Studies." *Security Dialogue* 41.6 (2010): 589-598.
