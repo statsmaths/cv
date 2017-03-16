@@ -8,7 +8,7 @@
 
 - Ph.D., Statistics, Yale University, May 2013
 - M.A., Statistics, Yale University, December 2009
-- B.A., Mathematics, Bowdoin College
+- B.A., Mathematics, Bowdoin College, May 2007
 
 ## Publications
 
@@ -50,3 +50,101 @@
 ### 2010
 
 13. Russett, Bruce, and **Taylor Arnold**. "Who Talks, and Who’s Listening? Networks of International Security Studies." *Security Dialogue* 41.6 (2010): 589-598.
+
+## Invited Talks and Workshops
+
+### 2017
+
+- Invited Poster, JSM 2017, "Computer Vision Meets Television", 2017-07-29 to 2017-08-03
+- Invited Workshop Participant, "Natural Language Processing in R", London School of Economics, 2017-04-21 to 2017-04-22
+- Tutorial Presenter, useR 2017, 2017-07-04
+- Invited talk: Washington and Lee University, "Digital Humanities, Data Analysis and Its Possibilities", 2017-02-02
+- Workshop, UVa, "Participatory Media", 2017-02-23 to 2017-02-24
+
+### 2016
+
+- Culture Analytics and User Experience Design, Institute for Pure and Applied Mathematics, UCLA, April 2016.
+- Image Processing and Reunification Workshop, University of Maryland 2016-09-16 to 2016-09-17.
+- Invited talk: Hollins University, "Participatory Media", 2016-10-16
+
+### 2015
+
+- "High Performance Data I/O", New England Statistics Symposium, University of Connecticut, April 2015.
+- "Oh the Places We'll Go", Department Seminar, Amherst College, February 2015.
+
+### 2011-2013
+
+- "The Genlasso Package", Connecticut R Users Group, New Haven, CT, February 2013.
+- "Historical Data with Photogrammar", University Library Colloquium, Columbia University, March 2012.
+- "The Best Guess: Comparing Bernoulli Estimators", Department Seminar, Bowdoin College, November 2011.
+
+## Presentations
+
+### 2017
+
+- Paper Presentation, DH 2017, "Mapping 20th Century America", 2017-08-08 to 2017-08-11
+- Poster, DH 2017, "Distant Seeing TV", 2017-08-08 to 2017-08-11
+
+### 2016
+
+- Joint Statistical Meetings, "What to do with messy data? Four case studies." Chair and Organizer. Invited Session, 30 July - 4 August.
+- Digital Humanities, "Photogrammar: Organizing Visual Culture through Geography, Text Mining, and Statistical Analysis." 7-12 July.
+
+### 2011 - 2015
+
+- "Using R in Humanities Research", Institute for Liberal Arts Digital Scholarship (ILiADS), Hamilton College, July 2015.
+- American Studies Association Annual Meeting, "Photogrammar in Puerto Rico: Reading the FSA's 1930s Visual Archive with Twenty-first-Century Visualization Tools." 15-18 November, 2012.
+- Joint Statistical Meetings, "User Oriented High Dimensional Linear Model Estimation." Contributed Talk, 28 July - 2 August, 2012.
+- Joint Statistical Meetings, "Statistical Sleuthing by Leveraging Human Nature." Invited Poster, 28 July - 2 August, 2012.
+- useR! Meeting, "Package hdlm: Fitting High Dimensional Linear Models." Contributed Talk, 12-15 June, 2012.
+- American Historical Association Annual Meeting, "From Archive to Interdisciplinary Tool: Transforming Our Image of the FSA-OWI Photograph Collection." Contributed Talk, January 5-8, 2012.
+- American Studies Association Annual Meeting, "Digital Humanities Lightning Shorts." Contributed Talk, 20-23 October 2011.
+- useR! Meeting, “Nonparametric Goodness-of-Fit Tests for Discrete Null Distributions." Contributed Talk, 16-18 August 2011.
+
+## Teaching
+
+### 2017-2018
+
+- Introduction to Statistical Modeling (MATH 209a; MATH 209b; MATH 209c): University of Richmond (Spring)
+- Regression Models (MATH 289): University of Richmond (Fall)
+- Statistical Learning (MATH 395a / CS 329b): University of Richmond (Fall)
+
+### 2016-2017
+
+- Probability (MATH 329): University of Richmond (Spring)
+- Introduction to Statistical Modeling (MATH 209a; MATH 209b): University of Richmond (Spring)
+- Introduction to Statistical Modeling (MATH 209b; MATH 209c): University of Richmond (Fall)
+
+### 2015-2016
+
+- Data Mining and Machine Learning (STAT 365/665): Yale, Spring
+- Linear Models (STAT 312/612): Yale, Fall
+
+### 2010-2011
+
+- Introduction to Statistics (MAT 107a; 107b): Connecticut College, Spring
+
+### 2010
+
+- Introduction to Statistics (STAT 107): Yale, Summer 2010
+
+## Service
+
+### University Service
+
+- Graduate Student Assembly, Statistics Representative, Yale University (2009-2013)
+- Yale Tribunal, Member (2010-2011)
+- Yale Graduate School Executive Committee, Member (2010-2011)
+
+### Professional Service
+
+- Distributed Computing Working Group; Sub-council of the R-Foundation, Member (2016-2017)
+- American Statistical Association, Section Program Chair (2015-2016)
+- Digital Humanities Quarterly (2014-2017)
+- Digital Art History, Referee (2015-2016)
+- Biometrika, Referee (2015)
+- Journal of Statistical Software, Referee (2015-2016)
+- Neurology, Referee (2013-2016)
+- The R-Journal, Referee (2012-2017)
+
+
