@@ -1,6 +1,7 @@
 ## Professional Appointments
 
 - University of Richmond, Department of Mathematics and Computer Science, Assistant Professor (Tenure Track), August 2016 - Present
+- Université Paris Diderot, Visiting Professor, April 2017 - June 2017
 - Yale University, Department of Statistics, Lecturer, August 2015 - July 2016
 - AT&T Labs Research, Statistics Department, Senior Scientist, March 2014 - August 2016
 
